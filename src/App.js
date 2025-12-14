@@ -1,4 +1,5 @@
 import React from 'react';
+import { motion } from 'framer-motion'; // ← Add this
 import HeroSection from './components/HeroSection';
 import Storyboard from './components/Storyboard';
 import VideoModal from './components/VideoModal';
